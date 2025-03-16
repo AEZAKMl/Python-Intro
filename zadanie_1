@@ -1,4 +1,4 @@
-
+hmm
 '''
 zip(*iterables, strict=False)
 Iteruje równolegle po kilku iterables, tworząc krotke z elementem z każdej z nich
