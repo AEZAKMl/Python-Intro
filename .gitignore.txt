@@ -1,0 +1,14 @@
+- Ignoruje foldery z plikami bajtowymi Pythona
+__pycache__/
+*.pyc
+
+- Ignoruje folder cache z pytest
+.pytest_cache/
+
+- Ignoruje foldery środowisk wirtualnych
+env/
+venv/
+
+- Ignoruje pliki logów i tymczasowe
+*.log
+*.tmp
